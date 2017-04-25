@@ -1,0 +1,22 @@
+So far, I learned how to use diff to see what was deleted and added between two files.  This is a lot easier than going line by line between two files.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	I can go back to previous versions without having to redo my code.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	pro - I am doumenting meaningful changes to my code
+	con - I may forget to change
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	
+	Git assumes that your project involves multiple files while others assumes that one document is independent of the other
+
+How can you use the commands git log and git diff to view the history of files?
+	git log shows all the changes made to the files
+	git diff shows the difference between different versions of the same file
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	
+	I want to use it to keep track of my changes to my code
