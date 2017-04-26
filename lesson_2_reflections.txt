@@ -14,10 +14,12 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
-	I can see if my commits are reachable or not
+	I can see if my commits are reachable or not.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	It allows me to combine my codes from different branches together.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
