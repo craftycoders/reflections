@@ -9,3 +9,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	clones - copying repository within GitHun or locally
 	branches - a new version of previous version of code that is apart from the master branch
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	If I'm offline, I can still work on the latest copy of code from the time I pulled it from the respository
+
