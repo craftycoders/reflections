@@ -17,3 +17,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	We would have to use a file sharing system.  It would definitely be harder because ti would be hard to keep track of the changes.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	This allows ,y collaborators to examine the changes before incorporating it into the master branch.
+
