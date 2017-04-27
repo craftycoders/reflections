@@ -13,3 +13,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	If I'm offline, I can still work on the latest copy of code from the time I pulled it from the respository
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	We would have to use a file sharing system.  It would definitely be harder because ti would be hard to keep track of the changes.
+
